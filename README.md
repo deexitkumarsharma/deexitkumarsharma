@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deexitkumarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="deexitkumarsharma" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://deexitsharma.github.io/Deexit-Portfolio/](https://deexitsharma.github.io/Deexit-Portfolio/)
-
 - 📫 How to reach me **deexitkumarsharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
